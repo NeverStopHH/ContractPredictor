@@ -3,9 +3,15 @@ This repository contains a deep learning model designed to predict lease contrac
 
 Key Features:
 
-Implementation of a fully connected neural network using TensorFlow
-Data preprocessing pipeline including outlier handling, feature scaling, and embeddings for categorical variables
-Evaluation based on key classification metrics: Accuracy, Precision, Recall, F1-Score, and ROC-AUC
+-Implementation of a fully connected neural network using TensorFlow
+
+
+-Data preprocessing pipeline including outlier handling, feature scaling, and embeddings for categorical variables
+
+
+-Evaluation based on key classification metrics: Accuracy, Precision, Recall, F1-Score, and ROC-AUC
+
+
 The goal is to demonstrate how neural networks can effectively support leasing management decisions by providing accurate contract success predictions.
 
 Feel free to explore and adapt the model for your own predictive analytics projects.
